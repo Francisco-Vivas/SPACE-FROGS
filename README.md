@@ -5,4 +5,4 @@
 # Space Frogs
 • [Presentation](https://docs.google.com/presentation/d/1Ito9Nl_Wjlblr6MdNAYvhc8Xq_Jhb0-GVSpcCj1vago/edit#slide=id.ga56ec94d59_1_0) • [Play Now!](https://space-frogs.netlify.app/) • 
 
-Help Roberto to destoy the malevolous space frogs that want to invade us!
+Help Roberto to destoy the malevolous space frogs who want to invade us!
